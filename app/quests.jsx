@@ -57,8 +57,7 @@ var Dashboard = React.createClass({
     var mdUrl = "/assets/data/profile/md/"+dashboard.user.username+".md";
     return (
       <div>
-        <TopNav profileName={this.state.userFullName} picUrl={this.state.userPicUrl}/>
-        <SideNav profileName={this.state.userFullName} binders={this.state.binders} tags={this.state.tags}/>
+        <StickyTopNav profileName={this.state.userFullName} picUrl={this.state.userPicUrl}/>
 
         <div className="main-content row page-wrap">
           <div id="notebooks-page" className="pages">

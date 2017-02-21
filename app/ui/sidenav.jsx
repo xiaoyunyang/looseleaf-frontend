@@ -25,7 +25,7 @@ var SideBinders = React.createClass({
   render: function () {
     return (
       <li>
-        <div className="collapsible-header active">DataVis</div>
+        <div className="collapsible-header active">Bookmarks</div>
         <div className="collapsible-body">
           <ul className="collection with-header valign pills"> {
             this.props.binders.map(function(item) {

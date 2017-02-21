@@ -1,5 +1,8 @@
 {
-	"user": {"username":"xyang","name":"Xiaoyun Yang", "picUrl": "http://xiaoyunyang.github.io/assets/data/profile/photo/xyang.png"},
+	"user": {"username":"xyang","name":"Xiaoyun Yang",
+		"picUrl": "/assets/data/profile/photo/xyang.png",
+		"bio": "Entrepreneur, engineer, founder of LooseLeaf"
+	},
 	"binders": [
 		{"name":"Pie Chart","alias":"pie","description":"Timeline"},
 		{"name":"Matrix","alias":"matrix","description":"AdjacencyMatrix"},

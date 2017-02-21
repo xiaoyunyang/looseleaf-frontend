@@ -1,0 +1,19 @@
+{
+	"user": {"username":"hvasquez","name":"Henry Vasquez",
+		"picUrl": "/assets/data/profile/photo/hvasquez.jpg",
+		"bio": "Serial Entrepreneur. CEO of Tribe.do. Productivity and automation enthusiast."
+	},
+	"binders": [
+		{"name":"Pie Chart","alias":"pie","description":"Timeline"},
+		{"name":"Matrix","alias":"matrix","description":"AdjacencyMatrix"}
+	],
+	"tags":[
+		{"tag":"Venture Capital","count":1},
+		{"tag":"VC","count":2},
+		{"tag":"startup fundraising","count":1},
+		{"tag":"cap tables","count":1},
+		{"tag":"VC blogs","count":1}
+	],
+	"bookmarks":
+		{"key":"1Ybs9p48YEC8sIfR61yqFqdEAi0nlA2hfepLNRlw_7c4", "query":"&tqx=out:csv"}
+}

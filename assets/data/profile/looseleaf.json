@@ -1,5 +1,8 @@
 {
-	"user": {"username":"looseleaf","name":"LooseLeaf", "picUrl": "http://xiaoyunyang.github.io/assets/data/profile/photo/looseleaf.png"},
+	"user": {"username":"looseleaf","name":"LooseLeaf",
+		"picUrl": "/assets/data/profile/photo/looseleaf.png",
+		"bio": "A new delivery vehicle for educational content online, connecting learners to experts."
+	},
 	"binders": [
 		{"name":"Pie Chart","alias":"pie","description":"Timeline"},
 		{"name":"Matrix","alias":"matrix","description":"AdjacencyMatrix"},

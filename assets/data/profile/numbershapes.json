@@ -1,5 +1,8 @@
 {
-	"user": {"username":"numbershapes","name":"NumberShapes", "picUrl": "http://xiaoyunyang.github.io/assets/data/profile/photo/numbershapes.png"},
+	"user": {"username":"numbershapes","name":"NumberShapes",
+		"picUrl": "/assets/data/profile/photo/numbershapes.png",
+		"bio": "The best digital manipulative apps with which to teach early math on the app store."
+	},
 	"binders": [
 		{"name":"Pie Chart","alias":"pie","description":"Timeline"},
 		{"name":"Matrix","alias":"matrix","description":"AdjacencyMatrix"}

@@ -23,9 +23,15 @@ var BookmarksList = React.createClass({
           <h5>Notebooks</h5>
           <ul className="collection">
             <li className="collection-item avatar">
+              <img className="square" src="../assets/data/profile/photo/hvasquez.jpg" />
+              <span className="title"><a href="user-hvasquez.html">Henry Vasquez</a></span>
+              <p>Serial Entrepreneur. CEO of Tribe.do. Productivity and automation enthusiast.</p>
+              <a target="_blank" href="https://docs.google.com/spreadsheets/d/1dY9xXzn4AtzvlhlhMO24xhe53KWr5pnNKVckM3YboKE/edit?usp=sharing" className="secondary-content"><i className="material-icons">&#xE254;</i></a>
+            </li>
+            <li className="collection-item avatar">
               <img className="square" src="../assets/data/profile/photo/looseleaf.png" />
               <span className="title"><a href="dashboard.html">LooseLeaf</a></span>
-              <p>A new delivery vehicle for educational content online</p>
+              <p>A new delivery vehicle for educational content online, connecting learners to experts.</p>
               <a target="_blank" href="https://docs.google.com/spreadsheets/d/1dY9xXzn4AtzvlhlhMO24xhe53KWr5pnNKVckM3YboKE/edit?usp=sharing" className="secondary-content"><i className="material-icons">&#xE254;</i></a>
             </li>
             <li className="collection-item avatar">

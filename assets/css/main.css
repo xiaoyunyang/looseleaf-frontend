@@ -46,7 +46,9 @@ a {
   padding-right: 8%;
   margin-bottom: 0px;
 }
-
+.rounded {
+    border-radius: 6px !important;
+}
 html{
   font-size:100%;
 }
@@ -187,6 +189,31 @@ h6 {
 
 /**** Navbar BEGIN ****/
 
+.navbar-fixed form {
+  padding: 0.70em;
+  width: 300px;
+  display:inline-block;
+  vertical-align:top;
+}
+
+.input-field {
+  color: #616161;
+}
+#search {
+  margin-top: 10px;
+}
+.input-field input[type=search]:focus {
+  color: #444;
+  background-color: inherit;
+}
+nav .input-field label i {
+  color: #616161;
+  vertical-align: top;
+  margin-top: 0px;
+}
+nav .input-field label.active i {
+  color: #444;
+}
 .navbar-brand {
     padding: 0.70em;
     width: 200px;
@@ -197,6 +224,7 @@ h6 {
 .navbar-brand img {
     vertical-align:top;
 }
+
 
 #signup-btn {
   background-color: #26a69a;
@@ -209,15 +237,8 @@ h6 {
   color: #616161;
   font-weight: bolder;
 }
-
 .nav-text-links li:hover {
   background: transparent;
-}
-.nav-text-links .active:hover {
-  background-color: rgba(0,0,0,0.1);
-}
-.dropdown-content {
-    background-color: #fff !important;
 }
 .nav-text-links a:hover {
   color: #383435;

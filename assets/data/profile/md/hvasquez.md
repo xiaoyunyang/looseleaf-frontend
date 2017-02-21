@@ -1,0 +1,4 @@
+#### Latest Projects
+##### tribe.do
+<a href="http://tribe.do" target="_blank">tribe</a> is a client engagement software for high performance teams. Tribe helps you coordinate work with outsiders—clients, contractors, and vendors, all from a secure, shared workspace. Our platform works naturally in email, mobile, and desktop so that coworkers, clients, and contractors can stay coordinated working in their tool of choice. 
+![Users get data visualizations and recommendations to filter and explore their bookmarks and bookmarks from the community.](https://image-store.slidesharecdn.com/796cbc89-8a43-455b-b828-0d0650ddc165-large.png)

@@ -1,5 +1,8 @@
 {
-	"user": {"username":"afenner","name":"Andrew Fenner", "picUrl": "http://xiaoyunyang.github.io/assets/data/profile/photo/afenner.png"},
+	"user": {"username":"afenner","name":"Andrew Fenner",
+		"picUrl": "/assets/data/profile/photo/afenner.png",
+		"bio": "Entrepreneur, math teacher, founder of NumberShapes."
+	},
 	"binders": [
 		{"name":"Pie Chart","alias":"pie","description":"Timeline"},
 		{"name":"Matrix","alias":"matrix","description":"AdjacencyMatrix"}

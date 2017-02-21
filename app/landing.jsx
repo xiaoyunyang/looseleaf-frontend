@@ -187,7 +187,7 @@ var Footer = React.createClass({
                   <a target="_blank" href="https://twitter.com/mylooseleaf">
                     <i className="fa fa-twitter fa-lg"></i>
                   </a>
-                  <a className="tooltipped" data-position="top" data-delay="50" data-tooltip="Email us" href="mailto:info@looseleaf.us">
+                  <a className="tooltipped" data-position="top" data-delay="50" data-tooltip="Email us" href="mailto:hello@looseleafapp.com">
                     <i className="fa fa-envelope fa-lg"></i>
                   </a>
                 </div>
