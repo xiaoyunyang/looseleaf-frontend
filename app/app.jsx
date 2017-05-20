@@ -11,8 +11,9 @@ var Dashboard = React.createClass({
         userPicUrl: json.user.picUrl,
         binders: json.binders,
         tags: json.tags,
+        bookmarksUrl: './assets/data/profile/'+json.user.username+'.csv'
         // CORS-enabled server.
-        bookmarksUrl: "https://spreadsheets.google.com/tq?key=" + json.bookmarks.key + json.bookmarks.query
+        //bookmarksUrl: "https://spreadsheets.google.com/tq?key=" + json.bookmarks.key + json.bookmarks.query
       });
       router(); /* from //app/router.js */
       this.loadBookmarksFromServer();
